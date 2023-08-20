@@ -7,7 +7,6 @@ package bstexample;
 
 /**
  *
- * @author ekuru
  */
 public class BstExample {
 
